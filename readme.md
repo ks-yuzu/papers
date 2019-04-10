@@ -6,7 +6,7 @@
 
 - [大迫裕樹, 石浦菜岐佐, 冨山宏之, 神原弘之:  
   "RTOS を用いたシステムのフルハードウェア実装とその自動化,"  
-  電子情報通信学会技術研究報告, VLD2018-122, (Mar. 2019).](2019-02-vld.pdf)  
+  電子情報通信学会技術研究報告, VLD2018-122, (Mar. 2019).](2019-03-vld.pdf)  
 
 - [Y. Oosako, N. Ishiura, H. Tomiyama, and H. Kanbara:  
   "Synthesis of Full Hardware Implementation of RTOS-Based Systems,"  
